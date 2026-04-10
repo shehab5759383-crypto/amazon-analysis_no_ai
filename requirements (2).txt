@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-plotly.express 
-statsmodels
-plotly.graph_object
-plotly.subplots
-scipy.stats
